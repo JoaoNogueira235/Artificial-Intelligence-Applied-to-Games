@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "presentationAIDirector.html#what-is-it",
+    "href": "presentationAIDirector.html#what-is-it",
+    "title": "AI Director in Games",
+    "section": "What is it?",
+    "text": "What is it?\nAn AI director is a game system that is composed of rules that analyze the state of the gameplay in real time."
+  },
+  {
+    "objectID": "presentationAIDirector.html#traditional-ai-vs-ai-director",
+    "href": "presentationAIDirector.html#traditional-ai-vs-ai-director",
+    "title": "AI Director in Games",
+    "section": "Traditional AI vs AI Director",
+    "text": "Traditional AI vs AI Director\nNormally, AIs (such as NPCs) have in their code what they should be doing at the moment, perhaps they should collect an item, run away from the player, etc.\nHowever, an AI Director does not care about what it should be doing, but instead it cares about what the situation needs.\nDoes the player need to relax a bit? Is the player bored? These are the type of questions the AI Director answers."
+  },
+  {
+    "objectID": "presentationAIDirector.html#the-two-game-design-concepts",
+    "href": "presentationAIDirector.html#the-two-game-design-concepts",
+    "title": "AI Director in Games",
+    "section": "The two Game Design concepts",
+    "text": "The two Game Design concepts\nThis game system is based on two game design concepts:\n\nMihaly Csikszentmihalyi’s Flow Theory\nDynamic Difficulty Adjustment."
+  },
+  {
+    "objectID": "presentationAIDirector.html#flow-theory",
+    "href": "presentationAIDirector.html#flow-theory",
+    "title": "AI Director in Games",
+    "section": "Flow Theory",
+    "text": "Flow Theory\nThe Flow Theory is the idea of individuals being fully immersed by an activity (in this case, games) and experiencing full enjoyment and focus. In games, this theory is really important for player engagement."
+  },
+  {
+    "objectID": "presentationAIDirector.html#what-keeps-the-players-engaged",
+    "href": "presentationAIDirector.html#what-keeps-the-players-engaged",
+    "title": "AI Director in Games",
+    "section": "What keeps the players engaged?",
+    "text": "What keeps the players engaged?\nThe Flow Theory explains that the player requires a few elements to keep engagement:\n\nRewards (Playing feels like a reward and not a chore)\nBalancing skills and challenge (to avoid too much stress or anxiety)\nProgressive Difficulty as the game goes on (starts easy but gets harder)\nCheckpoints (to avoid repeating a long section)"
+  },
+  {
+    "objectID": "presentationAIDirector.html#dynamic-difficulty-adjustment-dda",
+    "href": "presentationAIDirector.html#dynamic-difficulty-adjustment-dda",
+    "title": "AI Director in Games",
+    "section": "Dynamic Difficulty Adjustment (DDA)",
+    "text": "Dynamic Difficulty Adjustment (DDA)\nThe Dynamic Difficulty Adjustment (DDA) removes the idea of the player choosing the difficulties. Instead, the game automatically adjusts itself based on the player’s performance or emotions."
+  },
+  {
+    "objectID": "presentationAIDirector.html#how-does-dda-work",
+    "href": "presentationAIDirector.html#how-does-dda-work",
+    "title": "AI Director in Games",
+    "section": "How does DDA work?",
+    "text": "How does DDA work?\nThe most common DDA are performance-based systems that analyze the player’s performance such as accuracy, reaction time, and remaining health.\nDoes the game feel too easy? Maybe the enemies will have increased speed, damage or maybe increased spawn rate.\nDoes the game feel too hard? Maybe the enemies will spawn less and are slower.\nSome games give you the option to change difficulty if you lose too much. This is also considered DDA, however, it is a visible DDA and not an invisible DDA."
+  },
+  {
+    "objectID": "presentationAIDirector.html#the-result-of-these-two-concepts",
+    "href": "presentationAIDirector.html#the-result-of-these-two-concepts",
+    "title": "AI Director in Games",
+    "section": "The result of these two concepts",
+    "text": "The result of these two concepts\nAI Directors are the result of mixing these two concepts. They analyze the game and adapt it based on their performance to make the game more adequate to their skills and emotions."
+  },
+  {
+    "objectID": "presentationAIDirector.html#left-4-dead-game",
+    "href": "presentationAIDirector.html#left-4-dead-game",
+    "title": "AI Director in Games",
+    "section": "Left 4 Dead (game)",
+    "text": "Left 4 Dead (game)\nThe most famous game that implements this game system is Left 4 Dead. In Left 4 Dead, the AI Director does not simply increase the number of enemies or their speed. Instead, it adjusts the pace and intensity of the level based on what is happening at the moment."
+  },
+  {
+    "objectID": "presentationAIDirector.html#how-ai-director-changes-the-experiences",
+    "href": "presentationAIDirector.html#how-ai-director-changes-the-experiences",
+    "title": "AI Director in Games",
+    "section": "How AI Director changes the experiences",
+    "text": "How AI Director changes the experiences\nSince Left 4 Dead’s levels are kind of short, the AI Director is perfect to avoid repetition. By playing the same level again, you may have different experiences. For example:\nFirst time playing:\nLow health and lots of missed shots -&gt; Remove pressure by delaying enemies’ spawns and their numbers.\nSecond time playing:\nHigh health and less missed shots -&gt; Add pressure by spawning enemies more frequently with increased hordes."
+  },
+  {
+    "objectID": "presentationAIDirector.html#difficulty-should-not-mean-punishment",
+    "href": "presentationAIDirector.html#difficulty-should-not-mean-punishment",
+    "title": "AI Director in Games",
+    "section": "Difficulty should not mean punishment",
+    "text": "Difficulty should not mean punishment\nIn some games, the difficulty increases as the player reaches the end of the game. However, making a game harder does not mean that it will be a better experience for the player. The purpose of a game’s difficulty increase is not to punish the player, but to instead make the game more entertaining by making it more challenging according to their skills."
+  },
+  {
+    "objectID": "presentationAIDirector.html#alien-isolation-game",
+    "href": "presentationAIDirector.html#alien-isolation-game",
+    "title": "AI Director in Games",
+    "section": "Alien Isolation (game)",
+    "text": "Alien Isolation (game)\nAlien Isolation is a game about Amanda Ripley exploring a space station while avoiding an alien (the main enemy) and other minor enemies while completing mission objectives.\nAs the game goes on, Amanda gets more arsenal available to fight against the alien and other enemies.\nThe consequence? The alien is smarter. The alien learned the player’s patterns as they played. And who’s responsible for this?"
+  },
+  {
+    "objectID": "presentationAIDirector.html#ai-director",
+    "href": "presentationAIDirector.html#ai-director",
+    "title": "AI Director in Games",
+    "section": "AI DIRECTOR",
+    "text": "AI DIRECTOR"
+  },
+  {
+    "objectID": "presentationAIDirector.html#analyzing-the-player",
+    "href": "presentationAIDirector.html#analyzing-the-player",
+    "title": "AI Director in Games",
+    "section": "Analyzing the Player",
+    "text": "Analyzing the Player\nThe AI Director was analyzing the player’s behavior this whole time.\n\nHow many times did the player enter the vents to hide?\nHow many times did they hide under a bed?\nHow many times did the player throw a lure to distract the alien?\nDoes the player usually go through levels fast or slow?\n\nThis system helps make the alien feel more unpredictable while making you more predictable."
+  },
+  {
+    "objectID": "presentationAIDirector.html#adapt",
+    "href": "presentationAIDirector.html#adapt",
+    "title": "AI Director in Games",
+    "section": "Adapt",
+    "text": "Adapt\n“But how is this entertaining? It just seems to make the game impossible to beat”. Well, it does not make it impossible, but it does make it harder.\nThere’s a simple fix for this: Adapt. Change your strategy.\nThis makes the player feel more engaged on the game by thinking on new ways to get through the level, instead of simply relying on old strategies."
+  },
+  {
+    "objectID": "presentationAIDirector.html#menace-gauge",
+    "href": "presentationAIDirector.html#menace-gauge",
+    "title": "AI Director in Games",
+    "section": "Menace gauge",
+    "text": "Menace gauge\nThe AI Director can also affect emotions through gameplay. For example, in Alien Isolation there is a hidden gauge called “menace gauge” which checks if the player is feeling scared or overwhelmed.\nIs the alien slowly walking towards the player’s position?\nIs the alien in the player’s sight?\nIf the gauge completes, then the AI Director tells the alien to go away and give the player a chance to breathe.\nAs soon as the gauge gets empty, the AI Director tells the alien to go to the player’s approximate position, it never tells the player’s exact location."
+  },
+  {
+    "objectID": "presentationAIDirector.html#flaws-in-the-system",
+    "href": "presentationAIDirector.html#flaws-in-the-system",
+    "title": "AI Director in Games",
+    "section": "Flaws in the system",
+    "text": "Flaws in the system\nAs perfect as this system sounds, it could be abused to give players free advantages.\nWhat if the player gets themselves get hit on purpose to make the enemies weaker in the future?\nWhat if the player is shooting at the ground on purpose to make the AI director think they are playing badly?"
+  },
+  {
+    "objectID": "presentationAIDirector.html#preventing-exploits",
+    "href": "presentationAIDirector.html#preventing-exploits",
+    "title": "AI Director in Games",
+    "section": "Preventing exploits",
+    "text": "Preventing exploits\nThe AI director does not simply check the remaining health, missed shots, etc.\nIt checks what caused the health loss, what is the player shooting at and if there are enemies in the level.\nFor example:\n\nWhat caused the player to lose health?\nWhat is the player actually shooting at?\nAre there enemies present in the level?"
+  },
+  {
+    "objectID": "presentationAIDirector.html#ai-director-in-open-world-games",
+    "href": "presentationAIDirector.html#ai-director-in-open-world-games",
+    "title": "AI Director in Games",
+    "section": "AI Director in open-world games",
+    "text": "AI Director in open-world games\nThe AI Director is also used in open-world games.\nIf the player gets really far away from an NPC, then the NPC is now a waste of resources for the player’s platform.\nIt is responsible for spawning and de-spawning NPCs as the player explores the world.\nBy checking the player’s heading and speed, the AI Director can make sure no NPC pops up in front of the player."
+  }
+]
